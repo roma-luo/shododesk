@@ -17,4 +17,5 @@ GUIDE
 
 POSSIBLE ISSUES
 'UNABLE TO OPEN VIDEO STREAM': this should relate to "stream_url = 'http://192.168.5.1:81/stream'", try check the url ip
+
 '[ERROR] UNABLE TO CONNECT...': this should relate to the ports that python is trying to access does not exist or is being occupied, change to the correct serial port
